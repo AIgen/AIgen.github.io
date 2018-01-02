@@ -6,11 +6,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "CV"
-    url: /cv.pdf
+  - title: "Projects"
+    url: /projects/    
 
-#  - title: "Projects"
-#    url: /projects/    
+  - title: "CV"
+    url: /cv.pdf    
 
 #  - title: "Musings"
 #    url: /musings/
