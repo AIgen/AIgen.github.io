@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chirag Gupta"
 title_separator          : "-"
 name                     : &name "Chirag Gupta"
-description              : &description "Research Fellow @ Microsoft Research, India"
+description              : &description "PhD student @ Carnegie Mellon University"
 url                      : #http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aigen/aigen.github.io"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Chirag Gupta"
   avatar           : "profile.jpg"
-  bio              : "Research Fellow, Microsoft Research"
-  location         : "Bengaluru, India"
-  employer         : "Microsoft Research, India"
+  bio              : "PhD studnet, Carnegie Mellon University"
+  location         : "Pittsburgh, PA"
+  employer         : 
   googlescholar    : 
-  email            : "t-chgupt@microsoft.com"
+  email            : "chiragg@andrew.cmu.edu"
   uri              :
   bitbucket        :
   codepen          :
