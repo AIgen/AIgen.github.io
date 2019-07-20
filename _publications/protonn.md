@@ -6,7 +6,6 @@ excerpt: Machine learning for resource-constrained scenarios such as IoT.
 date: 2017-08-05
 venue: 'International Conference on Machine Learning'
 paperurl: 'http://proceedings.mlr.press/v70/gupta17a.html'
-citation: 'Gupta, Chirag, Arun Sai Suggala, Ankit Goyal, Harsha Vardhan Simhadri, Bhargavi Paranjape, Ashish Kumar, Saurabh Goyal, Raghavendra Udupa, Manik Varma, and Prateek Jain. "ProtoNN: Compressed and Accurate kNN for Resource-scarce Devices." In International Conference on Machine Learning, pp. 1331-1340. 2017.'
 ---
 
 Abstract
