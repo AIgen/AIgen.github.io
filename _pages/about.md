@@ -12,4 +12,4 @@ I am a second year PhD student at Carnegie Mellon University, where I am being a
 
 Earlier, I was a Research Fellow at Microsoft Research, India with [Dr. Prateek Jain](http://www.prateekjain.org/). I obtained my undergrad (B. Tech) in Computer Science and Engineering friom the [Indian Institute of Technology, Kanpur](http://www.iitk.ac.in/). 
 
-Have a look at the projects and publications sections to learn about my recent work. 
+Links to publications and preprints are located in the 'Papers' tab above, and links to code and repositories are located in the 'Code' tab above.
