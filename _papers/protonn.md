@@ -1,7 +1,7 @@
 ---
 title: "ProtoNN: Compressed and Accurate kNN for Resource-Scarce Devices"
-collection: "publications"
-permalink: /publications/protonn
+collection: "papers"
+permalink: /papers/protonn
 excerpt: Machine learning for resource-constrained scenarios such as IoT.
 date: 2017-08-05
 venue: 'International Conference on Machine Learning'

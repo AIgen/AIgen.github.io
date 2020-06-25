@@ -1,0 +1,15 @@
+---
+title: "Quantile out-of-bag (QOOB) conformal"
+excerpt: "A state of the art algorithm for conformal prediction in regression settings."
+collection: "code"
+permalink: /code/edgeml
+date: 2020-05-06
+---
+
+Conformal inference is a distribution-free way of performing predictive inference [1, 2]. For a description of the prediction problem that conformal solves and some standard references for conformal inference, please read Section 1 (introduction) of our paper linked below. This repository contains an implementation of our novel conformal method, QOOB [3] and other baseline conformal methods. Conformal inference (and QOOB) have primarily been developed for regression but can be extended to non-regression problems, such as classification.
+{: .text-justify}
+
+Links
+---
+[QOOB repository](https://arxiv.org/abs/1910.10562)<br>
+[QOOB paper](https://github.com/AIgen/QOOB/)

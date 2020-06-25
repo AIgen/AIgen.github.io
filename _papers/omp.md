@@ -1,7 +1,7 @@
 ---
 title: "Support Recovery for Orthogonal Matching Pursuit: Upper and Lower bounds"
-collection: "publications"
-permalink: /publications/omp
+collection: "papers"
+permalink: /papers/omp
 excerpt: Optimal statistical rates (in-sample) for sparse regression using Orthogonal Matching Pursuit.
 date: 2018-12-03
 venue: 'Neural Information Processing Systems'

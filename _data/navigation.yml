@@ -1,17 +1,11 @@
 # main links links
 main:
-#  - title: "Links"
-#    url: /links/
+  - title: "Papers"
+    url: /papers/
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Code"
+    url: /code/    
 
-  - title: "Projects"
-    url: /projects/    
-
-  - title: "CV"
-    url: /cv.pdf    
-
-#  - title: "Musings"
-#    url: /musings/
+#  - title: "CV"
+#    url: /cv.pdf    
     

@@ -1,0 +1,15 @@
+---
+title: "Nested conformal prediction and quantile out-of-bag ensemble methods"
+collection: "papers"
+permalink: /papers/qoob
+excerpt: "We provide an alternate view of conformal prediction and leverage it to develop a novel conformal technique that achieves promising results for regression problems."
+date: 2019-08-02
+venue: 'Minor revision, JMLR'
+paperurl: 'https://arxiv.org/abs/1908.01089'
+---
+
+We study path length bounds for Gradient Descent and Flow under multiple settings. See [arxiv preprint](https://arxiv.org/abs/1908.01089) for full abstract. 
+{: .text-justify}
+
+Links
+---
