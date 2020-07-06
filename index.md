@@ -20,7 +20,7 @@ Earlier, I was a Research Fellow at Microsoft Research, India with [Dr. Prateek 
   **Chirag Gupta**, Arun K Kuchibhotla, Aaditya K Ramdas
   <br>
   Submitted. Pattern Recognition, Special Issue on Conformal Prediction. 
-  [[arxiv](https://arxiv.org/abs/1910.10562)] [[Code](https://github.com/AIgen/QOOB)] 
+  [[arxiv](https://arxiv.org/abs/1910.10562)] [[code](https://github.com/AIgen/QOOB)] 
 
 - **Path length bounds for gradient descent and flow**
   <br>
@@ -41,7 +41,7 @@ Earlier, I was a Research Fellow at Microsoft Research, India with [Dr. Prateek 
   **Chirag Gupta**, Arun Sai Suggala, Ankit Goyal, Harsha Vardhan Simhadri, Bhargavi Paranjape, Ashish Kumar, Saurabh Goyal, Raghavendra Udupa, Manik Varma, Prateek Jain
   <br>
   **ICML 2017**.
-  [[pdf](http://proceedings.mlr.press/v70/gupta17a.html)] [[Code](https://github.com/Microsoft/EdgeML)] 
+  [[pdf](http://proceedings.mlr.press/v70/gupta17a.html)] [[code](https://github.com/Microsoft/EdgeML)] 
 
 
 ## Services
