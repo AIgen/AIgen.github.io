@@ -2,9 +2,9 @@
 layout: homepage
 ---
 
-I am a second year PhD student at Carnegie Mellon University, where I am being advised by [Prof. Aaditya Ramdas](http://stat.cmu.edu/~aramdas/){:target="_blank"}. I am interested in studying theoretical aspects of machine learning, which includes various topics in statistics and machine learning. Currently, I am spending most of my time thinking about assumption-free uncertainty quantification in classification and regression problems.
+I am a second year PhD student at CMU, where I am fortunate to be advised by [Aaditya Ramdas](http://stat.cmu.edu/~aramdas/){:target="_blank"}. I am interested in pursuing problems in machine learning and statistics in a principled manner, using mathematical tools and understanding to guide practice. Currently, I am spending most of my time thinking about assumption-free uncertainty quantification in classification and regression problems. 
 
-Earlier, I was a Research Fellow at Microsoft Research, India with [Dr. Prateek Jain](http://www.prateekjain.org/){:target="_blank"}. I obtained my undergrad (B. Tech) in Computer Science from [IIT Kanpur](http://www.iitk.ac.in/){:target="_blank"}.
+Earlier, I was a Research Fellow at Microsoft Research, India with [Prateek Jain](http://www.prateekjain.org/){:target="_blank"}. I obtained my undergrad (B. Tech) in Computer Science from [IIT Kanpur](http://www.iitk.ac.in/){:target="_blank"}.
 
 ## Publications and preprints
 
