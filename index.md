@@ -26,7 +26,7 @@ Earlier, I was a Research Fellow at Microsoft Research, India with [Prateek Jain
   <br>
   **Chirag Gupta**, Sivaraman Balakrishnan, Aaditya Ramdas
   <br>
-  Minor revision. Journal of Machine Learning Research (JMLR).
+  Revision. Journal of Machine Learning Research (JMLR).
   [[arxiv](https://arxiv.org/abs/1908.01089){:target="_blank"}] [[blog](https://blog.ml.cmu.edu/2019/10/25/path-length-bounds-for-gradient-descent/){:target="_blank"}]
 
 - **Support recovery for orthogonal matching pursuit: upper and lower bounds**
