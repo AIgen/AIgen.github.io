@@ -46,4 +46,5 @@ Earlier, I was a Research Fellow at Microsoft Research, India with [Prateek Jain
 
 ## Services
 
-- Reviewer: ICML 2020, ALT 2020. 
+- Reviewer: ICML 2020, ALT 2020
+- Teaching Assistant: 10606/607, CMU Summer 2020 (Mathematical and Computational Foundations for Machine Learning)
