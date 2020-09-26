@@ -12,7 +12,7 @@ Earlier, I was a Research Fellow at Microsoft Research, India with [Prateek Jain
   <br>
   **Chirag Gupta\***, Aleksandr Podkopaev\*, Aaditya Ramdas
   <br>
-  Submitted. Neurips 2020. 
+  **Neurips 2020  (spotlight)** 
   [[arxiv](https://arxiv.org/abs/2006.10564){:target="_blank"}] [[talk](https://www.youtube.com/watch?v=Bt0oSSepZK4){:target="_blank"}]
 
 - **Nested conformal prediction and quantile out-of-bag ensemble methods**
