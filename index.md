@@ -17,7 +17,7 @@ Earlier, I was a Research Fellow at Microsoft Research, India with [Prateek Jain
 
 - **Nested conformal prediction and quantile out-of-bag ensemble methods**
   <br>
-  **Chirag Gupta**, Arun K Kuchibhotla, Aaditya K Ramdas
+  **Chirag Gupta**, Arun K Kuchibhotla, Aaditya Ramdas
   <br>
   Submitted. Pattern Recognition, Special Issue on Conformal Prediction. 
   [[arxiv](https://arxiv.org/abs/1910.10562){:target="_blank"}] [[code](https://github.com/AIgen/QOOB){:target="_blank"}] [[talk](https://www.youtube.com/watch?v=5qGy3OZB-yQ){:target="_blank"}]
