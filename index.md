@@ -19,14 +19,14 @@ Earlier, I was a Research Fellow at Microsoft Research, India with [Prateek Jain
   <br>
   **Chirag Gupta**, Arun K Kuchibhotla, Aaditya Ramdas
   <br>
-  Submitted. Pattern Recognition, Special Issue on Conformal Prediction. 
+  Minor revision. Pattern Recognition, Special Issue on Conformal Prediction. 
   [[arxiv](https://arxiv.org/abs/1910.10562){:target="_blank"}] [[code](https://github.com/AIgen/QOOB){:target="_blank"}] [[talk](https://www.youtube.com/watch?v=91B_a5baDyA){:target="_blank"}]
 
 - **Path length bounds for gradient descent and flow**
   <br>
   **Chirag Gupta**, Sivaraman Balakrishnan, Aaditya Ramdas
   <br>
-  Revision. Journal of Machine Learning Research (JMLR).
+  Accepted with minor revision. Journal of Machine Learning Research (JMLR).
   [[arxiv](https://arxiv.org/abs/1908.01089){:target="_blank"}] [[blog](https://blog.ml.cmu.edu/2019/10/25/path-length-bounds-for-gradient-descent/){:target="_blank"}]
 
 - **Support recovery for orthogonal matching pursuit: upper and lower bounds**
