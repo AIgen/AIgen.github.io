@@ -19,7 +19,7 @@ Earlier, I was a Research Fellow at Microsoft Research, India with [Prateek Jain
   <br>
   Chirag Gupta, Arun K Kuchibhotla, Aaditya Ramdas
   <br>
-  **Accepted. Pattern Recognition, Special Issue on Conformal Prediction. **
+  **Accepted. Pattern Recognition, Special Issue on Conformal Prediction**.
   [[arxiv](https://arxiv.org/abs/1910.10562){:target="_blank"}] [[code](https://github.com/AIgen/QOOB){:target="_blank"}] [[talk](https://www.youtube.com/watch?v=91B_a5baDyA){:target="_blank"}]
 
 - **Path length bounds for gradient descent and flow**
