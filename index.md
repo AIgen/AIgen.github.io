@@ -7,6 +7,7 @@ I am a third year PhD student in the machine learning department at CMU. My advi
 Earlier, I was a Research Fellow at Microsoft Research, India with [Prateek Jain](http://www.prateekjain.org/){:target="_blank"}. I obtained my undergrad (B. Tech) in Computer Science from [IIT Kanpur](http://www.iitk.ac.in/){:target="_blank"}.
 
 ## Publications and preprints
+(in reverse chronological order of first preprint)
 
 - **Distribution-free binary classification: prediction sets, confidence intervals and calibration**
   <br>
