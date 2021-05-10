@@ -9,12 +9,18 @@ Earlier, I was a Research Fellow at Microsoft Research, India with [Prateek Jain
 ## Publications and preprints
 (in reverse chronological order of first preprint)
 
+- **Distribution-free calibration guarantees for histogram binning without sample splitting**
+  <br>
+  Chirag Gupta, Aaditya Ramdas
+  <br>
+  **ICML 2021**.
+
 - **Distribution-free binary classification: prediction sets, confidence intervals and calibration**
   <br>
   Chirag Gupta\*, Aleksandr Podkopaev\*, Aaditya Ramdas
   <br>
   **Neurips 2020  (spotlight)**.
-  [[arxiv](https://arxiv.org/abs/2006.10564){:target="_blank"}] [[talk](https://www.youtube.com/watch?v=tWGb_4_jVao){:target="_blank"}]
+  [[proc](https://proceedings.neurips.cc/paper/2020/hash/26d88423fc6da243ffddf161ca712757-Abstract.html){:target="_blank"}] [[arxiv](https://arxiv.org/abs/2006.10564){:target="_blank"}] [[talk](https://www.youtube.com/watch?v=tWGb_4_jVao){:target="_blank"}]
 
 - **Nested conformal prediction and quantile out-of-bag ensemble methods**
   <br>
@@ -35,14 +41,14 @@ Earlier, I was a Research Fellow at Microsoft Research, India with [Prateek Jain
   Raghav Somani\*, Chirag Gupta\*, Prateek Jain, Praneeth Netrapalli
   <br>
   **Neurips 2018 (spotlight)**.
-  [[pdf](http://papers.nips.cc/paper/8279-support-recovery-for-orthogonal-matching-pursuit-upper-and-lower-bounds.pdf){:target="_blank"}]
+  [[proc](https://proceedings.neurips.cc/paper/2018/hash/84b64e537f08e81b8dea8cce972a28b2-Abstract.html){:target="_blank"}]
 
 - **Protonn: Compressed and accurate knn for resource-scarce devices**
   <br>
   Chirag Gupta, Arun Sai Suggala, Ankit Goyal, Harsha Vardhan Simhadri, Bhargavi Paranjape, Ashish Kumar, Saurabh Goyal, Raghavendra Udupa, Manik Varma, Prateek Jain
   <br>
   **ICML 2017**.
-  [[pdf](http://proceedings.mlr.press/v70/gupta17a.html){:target="_blank"}] [[code](https://github.com/Microsoft/EdgeML){:target="_blank"}] 
+  [[proc](http://proceedings.mlr.press/v70/gupta17a.html){:target="_blank"}] [[code](https://github.com/Microsoft/EdgeML){:target="_blank"}] 
 
 
 ## Academic service
