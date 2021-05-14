@@ -14,7 +14,7 @@ Earlier, I was a Research Fellow at Microsoft Research, India with [Prateek Jain
   Chirag Gupta, Aaditya Ramdas
   <br>
   **ICML 2021**.
-  [[arxiv]https://arxiv.org/abs/2105.04656{:target="_blank"}]
+  [[arxiv](https://arxiv.org/abs/2105.04656){:target="_blank"}]
 
 - **Distribution-free binary classification: prediction sets, confidence intervals and calibration**
   <br>
