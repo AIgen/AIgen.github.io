@@ -21,21 +21,21 @@ Earlier, I was a Research Fellow at Microsoft Research, India with [Prateek Jain
   Chirag Gupta, Aaditya Ramdas
   <br>
   **ICML 2021**.
-  [[arxiv](https://arxiv.org/abs/2105.04656){:target="_blank"}] [[proc](http://proceedings.mlr.press/v139/gupta21b.html){:target="_blank"}] [[code (under development)](https://github.com/aigen/df-posthoc-calibration){:target="_blank"}] [[talk (from 37' to 50'](https://drive.google.com/file/d/1gWxE9osT-LaLoODE9nUyRK7990JbiD7o/view){:target="_blank"}]
+  [[arxiv](https://arxiv.org/abs/2105.04656){:target="_blank"}] [[proc](http://proceedings.mlr.press/v139/gupta21b.html){:target="_blank"}] [[code (under development)](https://github.com/aigen/df-posthoc-calibration){:target="_blank"}] [[talk (from 37' to 50')](https://drive.google.com/file/d/1gWxE9osT-LaLoODE9nUyRK7990JbiD7o/view){:target="_blank"}]
 
 - **Distribution-free binary classification: prediction sets, confidence intervals and calibration**
   <br>
   Chirag Gupta\*, Aleksandr Podkopaev\*, Aaditya Ramdas
   <br>
   **Neurips 2020  (spotlight)**.
-  [[arxiv](https://arxiv.org/abs/2006.10564){:target="_blank"}] [[proc](https://proceedings.neurips.cc/paper/2020/hash/26d88423fc6da243ffddf161ca712757-Abstract.html){:target="_blank"}] [[talk (from 24' to 38'](https://drive.google.com/file/d/1gWxE9osT-LaLoODE9nUyRK7990JbiD7o/view){:target="_blank"}] [](Older version: https://www.youtube.com/watch?v=tWGb_4_jVao){:target="_blank"}
+  [[arxiv](https://arxiv.org/abs/2006.10564){:target="_blank"}] [[proc](https://proceedings.neurips.cc/paper/2020/hash/26d88423fc6da243ffddf161ca712757-Abstract.html){:target="_blank"}] [[talk (from 24' to 38')](https://drive.google.com/file/d/1gWxE9osT-LaLoODE9nUyRK7990JbiD7o/view){:target="_blank"}] [](Older version: https://www.youtube.com/watch?v=tWGb_4_jVao){:target="_blank"}
 
 - **Nested conformal prediction and quantile out-of-bag ensemble methods**
   <br>
   Chirag Gupta, Arun K Kuchibhotla, Aaditya Ramdas
   <br>
   **Accepted. Pattern Recognition, Special Issue on Conformal Prediction**.
-  [[arxiv](https://arxiv.org/abs/1910.10562){:target="_blank"}] [[code](https://github.com/AIgen/QOOB){:target="_blank"}] [[talk (from 3' to 24'](https://drive.google.com/file/d/1gWxE9osT-LaLoODE9nUyRK7990JbiD7o/view){:target="_blank"}] [](Older version: https://www.youtube.com/watch?v=91B_a5baDyA)
+  [[arxiv](https://arxiv.org/abs/1910.10562){:target="_blank"}] [[code](https://github.com/AIgen/QOOB){:target="_blank"}] [[talk (from 3' to 24')](https://drive.google.com/file/d/1gWxE9osT-LaLoODE9nUyRK7990JbiD7o/view){:target="_blank"}] [](Older version: https://www.youtube.com/watch?v=91B_a5baDyA)
 
 - **Path length bounds for gradient descent and flow**
   <br>
