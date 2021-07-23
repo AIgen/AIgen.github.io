@@ -23,7 +23,7 @@ Earlier, I was a Research Fellow at Microsoft Research, India with [Prateek Jain
   Chirag Gupta, Aaditya Ramdas
   <br>
   **ICML 2021**.
-  [[arxiv](https://arxiv.org/abs/2105.04656){:target="_blank"}] [[proc](http://proceedings.mlr.press/v139/gupta21b.html){:target="_blank"}] [[code (under development)](https://github.com/aigen/df-posthoc-calibration){:target="_blank"}] [[talk (from 37' to 50')](https://drive.google.com/file/d/1gWxE9osT-LaLoODE9nUyRK7990JbiD7o/view){:target="_blank"}]
+  [[arxiv](https://arxiv.org/abs/2105.04656){:target="_blank"}] [[proc](http://proceedings.mlr.press/v139/gupta21b.html){:target="_blank"}] [[code](https://github.com/aigen/df-posthoc-calibration){:target="_blank"}] [[talk (from 37' to 50')](https://drive.google.com/file/d/1gWxE9osT-LaLoODE9nUyRK7990JbiD7o/view){:target="_blank"}]
 
 - **Distribution-free binary classification: prediction sets, confidence intervals and calibration**
   <br>
