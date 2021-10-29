@@ -11,7 +11,7 @@ Starting Fall 21, my research will be supported by the generous [Bloomberg Data 
 ## Publications and preprints
 (in reverse chronological order of first preprint)
 
-- **Top-label calibration**
+- **Top-label calibration and multiclass-to-binary reductions**
   <br>
   Chirag Gupta, Aaditya Ramdas
   <br>
