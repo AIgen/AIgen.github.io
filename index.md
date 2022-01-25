@@ -2,11 +2,11 @@
 layout: homepage
 ---
 
-I am a third year PhD student in the machine learning department at CMU. My advisor is [Aaditya Ramdas](http://stat.cmu.edu/~aramdas/){:target="_blank"}. I am interested in pursuing problems in machine learning and statistics in a principled manner, using mathematical tools and understanding to guide practice. Currently, I am mostly working on assumption-free uncertainty quantification for classification and regression problems. 
+I am a fourth year PhD student in the machine learning department at CMU. My advisor is [Aaditya Ramdas](http://stat.cmu.edu/~aramdas/){:target="_blank"}. I am interested in pursuing problems in machine learning and statistics in a principled manner, using mathematical tools and understanding to guide practice. My thesis work is on assumption-free uncertainty quantification for classification and regression problems. 
 
 Earlier, I was a Research Fellow at Microsoft Research, India with [Prateek Jain](http://www.prateekjain.org/){:target="_blank"}. I obtained my undergrad (B. Tech) in Computer Science from [IIT Kanpur](http://www.iitk.ac.in/){:target="_blank"}.
 
-Starting Fall 21, my research will be supported by the generous [Bloomberg Data Science Ph.D. fellowship](https://www.techatbloomberg.com/bloomberg-data-science-ph-d-fellowship/){:target="_blank"}.
+My research is supported by the generous [Bloomberg Data Science Ph.D. fellowship](https://www.techatbloomberg.com/bloomberg-data-science-ph-d-fellowship/){:target="_blank"}.
 
 ## Publications and preprints
 (in reverse chronological order of first preprint)
@@ -17,6 +17,7 @@ Starting Fall 21, my research will be supported by the generous [Bloomberg Data 
   <br>
   **Workshop on Distribution-Free Uncertainty Quantification, ICML 2021 (spotlight)**.
   <br>
+  **ICLR 2022**. <br>
   **Workshop on Uncertainty & Robustness in Deep Learning, ICML 2021**. <br>
   [[arxiv](http://arxiv.org/abs/2107.08353){:target="_blank"}] [[code (under development)](https://github.com/aigen/df-posthoc-calibration){:target="_blank"}] 
 
