@@ -15,10 +15,7 @@ My research is supported by the generous [Bloomberg Data Science Ph.D. fellowshi
   <br>
   Chirag Gupta, Aaditya Ramdas
   <br>
-  **Workshop on Distribution-Free Uncertainty Quantification, ICML 2021 (spotlight)**.
-  <br>
   **ICLR 2022**. <br>
-  **Workshop on Uncertainty & Robustness in Deep Learning, ICML 2021**. <br>
   [[arxiv](http://arxiv.org/abs/2107.08353){:target="_blank"}] [[code (under development)](https://github.com/aigen/df-posthoc-calibration){:target="_blank"}] 
 
 - **Distribution-free calibration guarantees for histogram binning without sample splitting**
