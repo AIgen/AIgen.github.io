@@ -11,6 +11,13 @@ My research is supported by the generous [Bloomberg Data Science Ph.D. fellowshi
 ## Publications and preprints
 (in reverse chronological order of first preprint)
 
+- **Faster online calibration without randomization: interval forecasts and the power of two choices**
+  <br>
+  Chirag Gupta, Aaditya Ramdas
+  <br>
+  Under submission. [[arxiv](https://arxiv.org/abs/2204.13087){:target="_blank"}] 
+
+
 - **Top-label calibration and multiclass-to-binary reductions**
   <br>
   Chirag Gupta, Aaditya Ramdas
