@@ -69,5 +69,5 @@ My research is supported by the generous [Bloomberg Data Science Ph.D. fellowshi
 
 ## Academic service
 
-- Reviewer: ICML 2020, ALT 2020, Neurips 2021, JMLR
+- Reviewer: ICML 2020, ALT 2020, Neurips 2021, ICML 2022, JMLR
 - Teaching Assistant: 10606/607 (Mathematical and Computational Foundations for Machine Learning), 10713 (Machine Learning, Ethics, and Society)
