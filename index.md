@@ -15,7 +15,7 @@ My research is supported by the generous [Bloomberg Data Science Ph.D. fellowshi
   <br>
   Chirag Gupta, Aaditya Ramdas
   <br>
-  **COLT 2022**. [[proc]([https://openreview.net/forum?id=WqoBaaPHS-](https://proceedings.mlr.press/v178/gupta22b.html)){:target="_blank"}] [[arxiv](https://arxiv.org/abs/2204.13087){:target="_blank"}] 
+  **COLT 2022**. [[proc](https://proceedings.mlr.press/v178/gupta22b.html){:target="_blank"}] [[arxiv](https://arxiv.org/abs/2204.13087){:target="_blank"}] 
 
 
 - **Top-label calibration and multiclass-to-binary reductions**
