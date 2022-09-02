@@ -2,11 +2,11 @@
 layout: homepage
 ---
 
-I am a final year PhD student in the machine learning department at CMU. My advisor is [Aaditya Ramdas](http://stat.cmu.edu/~aramdas/){:target="_blank"}. I am interested in pursuing problems in machine learning and statistics in a principled manner, using mathematical tools and understanding to guide practice. My thesis work is on assumption-free uncertainty quantification for classification and regression problems. 
+I am a final year ([ABD](https://en.wikipedia.org/wiki/All_but_dissertation){:target="_blank"}) PhD student in the machine learning department at Carnegie Mellon University, advised by [Aaditya Ramdas](http://stat.cmu.edu/~aramdas/){:target="_blank"}. I am interested in pursuing problems in machine learning and statistics in a principled manner, using mathematical tools and understanding to guide practice. My thesis proposal, titled "post-hoc calibration without distributional assumptions", can be found [here](https://aigen.github.io/files/proposal.pdf){:target="_blank"}. 
 
 Earlier, I was a Research Fellow at Microsoft Research, India with [Prateek Jain](http://www.prateekjain.org/){:target="_blank"}. I obtained my undergrad (B. Tech) in Computer Science from [IIT Kanpur](http://www.iitk.ac.in/){:target="_blank"}.
 
-My research is supported by the generous [Bloomberg Data Science Ph.D. fellowship](https://www.techatbloomberg.com/bloomberg-data-science-ph-d-fellowship/){:target="_blank"}.
+Since Fall 2021, my research and travel has been supported by the generous [Bloomberg Data Science Ph.D. fellowship](https://www.techatbloomberg.com/bloomberg-data-science-ph-d-fellowship/){:target="_blank"}.
 
 ## Publications and preprints
 (in reverse chronological order of first preprint)
