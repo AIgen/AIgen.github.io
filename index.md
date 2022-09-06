@@ -6,7 +6,7 @@ I am a final year ([ABD](https://en.wikipedia.org/wiki/All_but_dissertation){:ta
 
 Earlier, I was a Research Fellow at Microsoft Research, India with [Prateek Jain](http://www.prateekjain.org/){:target="_blank"}. I obtained my undergrad (B. Tech) in Computer Science from [IIT Kanpur](http://www.iitk.ac.in/){:target="_blank"}.
 
-Since Fall 2021, my research and travel has been supported by the generous [Bloomberg Data Science Ph.D. fellowship](https://www.techatbloomberg.com/bloomberg-data-science-ph-d-fellowship/){:target="_blank"}.
+Since Fall 2021, my research and travel have been supported by the generous [Bloomberg Data Science Ph.D. fellowship](https://www.techatbloomberg.com/bloomberg-data-science-ph-d-fellowship/){:target="_blank"}.
 
 ## Publications and preprints
 (in reverse chronological order of first preprint)
