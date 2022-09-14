@@ -22,7 +22,7 @@ Since Fall 2021, my research and travel have been supported by the generous [Blo
   <br>
   Chirag Gupta, Aaditya Ramdas
   <br>
-  **ICLR 2022**. [[proc](https://openreview.net/forum?id=WqoBaaPHS-){:target="_blank"}] [[arxiv](http://arxiv.org/abs/2107.08353){:target="_blank"}] [[code (under development)](https://github.com/aigen/df-posthoc-calibration){:target="_blank"}] 
+  **ICLR 2022**. [[proc](https://openreview.net/forum?id=WqoBaaPHS-){:target="_blank"}] [[arxiv](http://arxiv.org/abs/2107.08353){:target="_blank"}] [[code](https://github.com/aigen/df-posthoc-calibration){:target="_blank"}] 
 
 - **Distribution-free calibration guarantees for histogram binning without sample splitting**
   <br>
