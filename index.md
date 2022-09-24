@@ -2,11 +2,9 @@
 layout: homepage
 ---
 
-I am a final year ([ABD](https://en.wikipedia.org/wiki/All_but_dissertation){:target="_blank"}) PhD student in the machine learning department at Carnegie Mellon University, advised by [Aaditya Ramdas](http://stat.cmu.edu/~aramdas/){:target="_blank"}. I am interested in pursuing problems in machine learning and statistics in a principled manner, using mathematical tools and understanding to guide practice. My thesis proposal, titled "post-hoc calibration without distributional assumptions", can be found [here](https://aigen.github.io/files/proposal.pdf){:target="_blank"}. 
+I am a final year ([ABD](https://en.wikipedia.org/wiki/All_but_dissertation){:target="_blank"}) PhD student in the machine learning department at Carnegie Mellon University, advised by [Aaditya Ramdas](http://stat.cmu.edu/~aramdas/){:target="_blank"}. I am interested in pursuing problems in machine learning and statistics in a principled manner, using mathematical tools and understanding to guide practice. My thesis work is on distribution-free uncertainty quantification with a focus on the methodology and theory of post-hoc calibration of ML classifiers.
 
-Earlier, I was a Research Fellow at Microsoft Research, India with [Prateek Jain](http://www.prateekjain.org/){:target="_blank"}. I obtained my undergrad (B. Tech) in Computer Science from [IIT Kanpur](http://www.iitk.ac.in/){:target="_blank"}.
-
-Since Fall 2021, my research and travel have been supported by the generous [Bloomberg Data Science Ph.D. fellowship](https://www.techatbloomberg.com/bloomberg-data-science-ph-d-fellowship/){:target="_blank"}.
+Earlier, I was a Research Fellow at Microsoft Research, India with [Prateek Jain](http://www.prateekjain.org/){:target="_blank"}. I obtained my undergrad (B. Tech) in Computer Science from [IIT Kanpur](http://www.iitk.ac.in/){:target="_blank"}. Since Fall 2021, my research and travel have been supported by the generous [Bloomberg Data Science Ph.D. fellowship](https://www.techatbloomberg.com/bloomberg-data-science-ph-d-fellowship/){:target="_blank"}.
 
 ## Publications and preprints
 (in reverse chronological order of first preprint)
@@ -67,7 +65,12 @@ Since Fall 2021, my research and travel have been supported by the generous [Blo
   [[proc](http://proceedings.mlr.press/v70/gupta17a.html){:target="_blank"}] [[code](https://github.com/Microsoft/EdgeML){:target="_blank"}] 
 
 
+## Invited talks
+
+- Provably calibrating ML classifiers without distributional assumptions (TrustML Young Scientist Seminar, September 2022) [[link](https://www.youtube.com/watch?v=4moQRDv8MGM){:target="_blank"}]
+- Recent advances in distribution-free uncertainty quantification (International Seminar on Selective Inference, May 2021) [[link](https://drive.google.com/file/d/1gWxE9osT-LaLoODE9nUyRK7990JbiD7o/view){:target="_blank"}]
+
 ## Academic service
 
 - Reviewer: ICML 2020, ALT 2020, Neurips 2021, ICML 2022, JMLR
-- Teaching Assistant: 10606/607 (Mathematical and Computational Foundations for Machine Learning), 10713 (Machine Learning, Ethics, and Society)
+- TA: Mathematical and Computational Foundations for ML (CMU), Machine Learning, Ethics, and Society (CMU)
