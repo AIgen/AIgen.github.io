@@ -9,6 +9,14 @@ Earlier, I was a Research Fellow at Microsoft Research, India with [Prateek Jain
 ## Publications and preprints
 (in reverse chronological order of first preprint)
 
+
+- **Online Platt Scaling with Calibeating**
+  <br>
+  Chirag Gupta, Aaditya Ramdas
+  <br>
+  **To appear at ICML 2023**. [[arxiv](https://arxiv.org/abs/2305.00070){:target="_blank"}] 
+
+
 - **Faster online calibration without randomization: interval forecasts and the power of two choices**
   <br>
   Chirag Gupta, Aaditya Ramdas
