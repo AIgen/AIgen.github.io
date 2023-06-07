@@ -9,6 +9,11 @@ Earlier, I was a Research Fellow at Microsoft Research, India with [Prateek Jain
 ## Publications and preprints
 (in reverse chronological order of first preprint)
 
+- **Parity Calibration**
+  <br>
+  Youngseog Chung, Aaron Rumack, Chirag Gupta
+  <br>
+  **To appear at UAI 2023 (oral)**. [[arxiv](https://arxiv.org/abs/2305.18655){:target="_blank"}] 
 
 - **Online Platt Scaling with Calibeating**
   <br>
