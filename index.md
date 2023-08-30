@@ -2,9 +2,9 @@
 layout: homepage
 ---
 
-I am a final year ([ABD](https://en.wikipedia.org/wiki/All_but_dissertation){:target="_blank"}) PhD student in the machine learning department at Carnegie Mellon University, advised by [Aaditya Ramdas](http://stat.cmu.edu/~aramdas/){:target="_blank"}. I am interested in pursuing problems in machine learning and statistics in a principled manner, using mathematical tools and understanding to guide practice. My thesis work is on distribution-free uncertainty quantification with a focus on the methodology and theory of post-hoc calibration of ML classifiers.
+I am now a Researcher at Bloomberg AI in New York! Please reach out if you'd like to know more about what we do. 
 
-Earlier, I was a Research Fellow at Microsoft Research, India with [Prateek Jain](http://www.prateekjain.org/){:target="_blank"}. I obtained my undergrad (B. Tech) in Computer Science from [IIT Kanpur](http://www.iitk.ac.in/){:target="_blank"}. Since Fall 2021, my research and travel have been supported by the generous [Bloomberg Data Science Ph.D. fellowship](https://www.techatbloomberg.com/bloomberg-data-science-ph-d-fellowship/){:target="_blank"}.
+Previously, I spent five wonderful years at Carnegie Mellon University, working towards my PhD in Machine Learning under the guidance of [Aaditya Ramdas](http://stat.cmu.edu/~aramdas/){:target="_blank"}. My research was awarded a [Bloomberg Data Science Fellowship](https://www.techatbloomberg.com/bloomberg-data-science-ph-d-fellowship/){:target="_blank"}. The dissertation, titled "Post-hoc calibration without distributional assumptions", can be found [here](https://aigen.github.io/files/thesis.pdf){:target="_blank"}. Earlier, I was a Research Fellow at Microsoft Research, India with [Prateek Jain](http://www.prateekjain.org/){:target="_blank"}. I did my undergrad (B. Tech) in Computer Science at [IIT Kanpur](http://www.iitk.ac.in/){:target="_blank"}.  
 
 ## Publications and preprints
 (in reverse chronological order of first preprint)
@@ -13,13 +13,13 @@ Earlier, I was a Research Fellow at Microsoft Research, India with [Prateek Jain
   <br>
   Youngseog Chung, Aaron Rumack, Chirag Gupta
   <br>
-  **To appear at UAI 2023 (oral)**. [[arxiv](https://arxiv.org/abs/2305.18655){:target="_blank"}] 
+  **UAI 2023 (oral)**. [[arxiv](https://arxiv.org/abs/2305.18655){:target="_blank"}] 
 
 - **Online Platt Scaling with Calibeating**
   <br>
   Chirag Gupta, Aaditya Ramdas
   <br>
-  **To appear at ICML 2023**. [[arxiv](https://arxiv.org/abs/2305.00070){:target="_blank"}] 
+  **ICML 2023**. [[arxiv](https://arxiv.org/abs/2305.00070){:target="_blank"}] 
 
 
 - **Faster online calibration without randomization: interval forecasts and the power of two choices**
