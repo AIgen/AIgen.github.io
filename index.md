@@ -4,7 +4,7 @@ layout: homepage
 
 I am now at Bloomberg AI in New York! Please reach out if you'd like to know more about what we do. 
 
-Previously, I spent five wonderful years at Carnegie Mellon University, working towards my PhD in Machine Learning under the guidance of [Aaditya Ramdas](http://stat.cmu.edu/~aramdas/){:target="_blank"}. My research was awarded a [Bloomberg Data Science Fellowship](https://www.techatbloomberg.com/bloomberg-data-science-ph-d-fellowship/){:target="_blank"}. The dissertation, titled "Post-hoc calibration without distributional assumptions", can be found [here](https://aigen.github.io/files/thesis.pdf){:target="_blank"}. Earlier, I was a Research Fellow at Microsoft Research, India with [Prateek Jain](http://www.prateekjain.org/){:target="_blank"}. I did my undergrad (B. Tech) in Computer Science at [IIT Kanpur](http://www.iitk.ac.in/){:target="_blank"}.  
+Previously, I spent five wonderful years at Carnegie Mellon University, where I obtained a PhD in Machine Learning under the guidance of [Aaditya Ramdas](http://stat.cmu.edu/~aramdas/){:target="_blank"}. My research was awarded the [Bloomberg Data Science Fellowship](https://www.techatbloomberg.com/bloomberg-data-science-ph-d-fellowship/){:target="_blank"}. My PhD dissertation, titled "Post-hoc calibration without distributional assumptions", can be found [here](https://aigen.github.io/files/thesis.pdf){:target="_blank"}. Earlier, I was a Research Fellow at Microsoft Research, India with [Prateek Jain](http://www.prateekjain.org/){:target="_blank"}. I did my undergrad (B. Tech) in Computer Science at [IIT Kanpur](http://www.iitk.ac.in/){:target="_blank"}.  
 
 ## Publications and preprints
 (in reverse chronological order of first preprint)
