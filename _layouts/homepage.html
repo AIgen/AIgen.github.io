@@ -40,8 +40,13 @@
         {{ site.affiliation }}
         <br>
         {% if site.email %}
-        {{ site.email }}</p>
+        {{ site.email }}
+        <br>
         {% endif %}
+        {% if site.personal_email %}
+        {{ site.personal_email }}
+        {% endif %}
+        </p>
 
       </header>
       <section>

@@ -59,14 +59,14 @@ Previously, I spent five wonderful years at Carnegie Mellon University, where I 
   Chirag Gupta\*, Aleksandr Podkopaev\*, Aaditya Ramdas
   <br>
   **Neurips 2020  (spotlight)**.
-  [[arxiv](https://arxiv.org/abs/2006.10564){:target="_blank"}] [[proc](https://proceedings.neurips.cc/paper/2020/hash/26d88423fc6da243ffddf161ca712757-Abstract.html){:target="_blank"}] [[talk (from 24' to 38')](https://drive.google.com/file/d/1gWxE9osT-LaLoODE9nUyRK7990JbiD7o/view){:target="_blank"}] [](Older version: https://www.youtube.com/watch?v=tWGb_4_jVao){:target="_blank"}
+  [[arxiv](https://arxiv.org/abs/2006.10564){:target="_blank"}] [[proc](https://proceedings.neurips.cc/paper/2020/hash/26d88423fc6da243ffddf161ca712757-Abstract.html){:target="_blank"}] [[talk (from 24' to 38')](https://drive.google.com/file/d/1gWxE9osT-LaLoODE9nUyRK7990JbiD7o/view){:target="_blank"}] <!-- Older version: https://www.youtube.com/watch?v=tWGb_4_jVao -->
 
 - **Nested conformal prediction and quantile out-of-bag ensemble methods**
   <br>
   Chirag Gupta, Arun K Kuchibhotla, Aaditya Ramdas
   <br>
   **Pattern Recognition (Special Issue on Conformal Prediction) 2022**.
-  [[journal](https://www.sciencedirect.com/science/article/pii/S0031320321006725){:target="_blank"}] [[arxiv](https://arxiv.org/abs/1910.10562){:target="_blank"}] [[code](https://github.com/AIgen/QOOB){:target="_blank"}] [[talk (from 3' to 24')](https://drive.google.com/file/d/1gWxE9osT-LaLoODE9nUyRK7990JbiD7o/view){:target="_blank"}] [](Older version: https://www.youtube.com/watch?v=91B_a5baDyA)
+  [[journal](https://www.sciencedirect.com/science/article/pii/S0031320321006725){:target="_blank"}] [[arxiv](https://arxiv.org/abs/1910.10562){:target="_blank"}] [[code](https://github.com/AIgen/QOOB){:target="_blank"}] [[talk (from 3' to 24')](https://drive.google.com/file/d/1gWxE9osT-LaLoODE9nUyRK7990JbiD7o/view){:target="_blank"}] <!-- Older version: https://www.youtube.com/watch?v=91B_a5baDyA -->
 
 - **Path length bounds for gradient descent and flow**
   <br>
