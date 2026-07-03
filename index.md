@@ -90,12 +90,12 @@ Previously, I spent five wonderful years at Carnegie Mellon University, where I 
   [[proc](http://proceedings.mlr.press/v70/gupta17a.html){:target="_blank"}] [[code](https://github.com/Microsoft/EdgeML){:target="_blank"}] 
 
 
+<!--
 ## Invited talks
 
 - Provably calibrating ML classifiers without distributional assumptions (TrustML Young Scientist Seminar, September 2022) [[link](https://www.youtube.com/watch?v=4moQRDv8MGM){:target="_blank"}]
 - Recent advances in distribution-free uncertainty quantification (International Seminar on Selective Inference, May 2021) [[link](https://drive.google.com/file/d/1gWxE9osT-LaLoODE9nUyRK7990JbiD7o/view){:target="_blank"}]
 
-<!--
 ## Academic service
 
 - Reviewer: ICML 2020, ALT 2020, Neurips 2021, ICML 2022, JMLR
