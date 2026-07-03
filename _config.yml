@@ -9,6 +9,6 @@ avatar: ./assets/img/profile.jpg
 google_analytics: UA-111818401-1
 favicon: ./assets/img/faviconCMU.png
 favicon_dark: ./assets/img/faviconCMU.png
-description: This is a simple personal homepage based on the Minimal Light theme. 
+description: Chirag Gupta is a Senior Researcher at Bloomberg AI in New York, working on machine learning for pricing corporate bonds. Previously a PhD in Machine Learning at Carnegie Mellon University, with research on uncertainty quantification, calibration, and online learning.
 canonical: https://AIgen.github.io/
 remote_theme: yaoyao-liu/minimal-light
