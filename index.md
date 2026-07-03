@@ -9,6 +9,18 @@ Previously, I spent five wonderful years at Carnegie Mellon University, where I 
 ## Publications and preprints
 (in reverse chronological order of first preprint)
 
+- **Learning from Interval Targets**
+  <br>
+  Rattana Pukdee, Ziqi Ke, Chirag Gupta
+  <br>
+  **Neurips 2025**. [[arxiv](https://arxiv.org/abs/2510.20925){:target="_blank"}]
+
+- **Calibrating LLMs for Text-to-SQL Parsing by Leveraging Sub-clause Frequencies**
+  <br>
+  Terrance Liu, Shuyi Wang, Daniel Preotiuc-Pietro, Yash Chandarana, Chirag Gupta
+  <br>
+  **EMNLP 2025**. [[arxiv](https://arxiv.org/abs/2505.23804){:target="_blank"}] [[proc](https://aclanthology.org/2025.emnlp-main.859/){:target="_blank"}]
+
 - **Parity Calibration**
   <br>
   Youngseog Chung, Aaron Rumack, Chirag Gupta
